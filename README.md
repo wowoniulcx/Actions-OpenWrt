@@ -1,4 +1,4 @@
-# 香橙派 zero 固件自动编译
+# 香橙派 zero 和 pc 固件自动编译
 
 
 ## 基本信息
@@ -7,8 +7,6 @@
 - 默认用户名：root  
 - 默认密码：password
 
-## 插件
-<img src="https://github.com/Gabrielxzx/Actions-OpenWrt/blob/master/assets/luci/System.png" width="180" /><img src="https://github.com/Gabrielxzx/Actions-OpenWrt/blob/master/assets/luci/Service.png" width="180" /><img src="https://github.com/Gabrielxzx/Actions-OpenWrt/blob/master/assets/luci/Nas&VPN.png" width="180" /><img src="https://github.com/Gabrielxzx/Actions-OpenWrt/blob/master/assets/luci/Network.png" width="180" />
 
 ## 下载链接
 
@@ -17,8 +15,7 @@
 
 ## 备注
 
-- 目前固件仅香橙派zero，后期随缘添加，随缘更新
-
+- 目前固件仅香橙派zero和pc, 
 ## 鸣谢
 
 特别感谢以下项目：
